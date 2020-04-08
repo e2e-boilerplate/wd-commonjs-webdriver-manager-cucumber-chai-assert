@@ -57,7 +57,7 @@
     "lint": "npx eslint --ext .js ./ --fix",
     "start:webdriver": "npx webdriver-manager start",
     "test": "./node_modules/.bin/cucumber-js",
-    "update:webdriver": "npx webdriver-manager update"
+    "update:webdriver": "npx webdriver-manager update --gecko false"
   },
   "version": "1.0.0"
 }
