@@ -1,12 +1,12 @@
 | referrer                                                                                  | count | uniques |
 | :---------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions               | 4     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions               | 8     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert                       | 3     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions/runs/74928669 | 3     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/runs/575681924        | 3     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/runs/575883304        | 2     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions/runs/73981932 | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions/runs/74022008 | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions/runs/74809030 | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions/runs/74830530 | 1     | 1       |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/runs/572428290        | 1     | 1       |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/runs/572555556        | 1     | 1       |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/runs/572683144        | 1     | 1       |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/runs/575444545        | 1     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert/actions/runs/74871295 | 1     | 1       |
