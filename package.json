@@ -31,16 +31,17 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "chai",
     "commonjs",
     "cucumber",
+    "wd",
+    "webdriver manager",
     "e2e",
     "e2e tests",
-    "example",
+    "boilerplate",
     "integration test",
-    "wd",
-    "webdriver manager"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
